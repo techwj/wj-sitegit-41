@@ -1,0 +1,59 @@
+{
+  "siteId": "low-calorie-dessert-diy",
+  "generatedAt": "2026-06-02T15:35:11.197642",
+  "categories": [
+    "beginner-low-calorie-dessert-diy",
+    "advanced-low-calorie-dessert-diy",
+    "tips-low-calorie-dessert-diy",
+    "history-low-calorie-dessert-diy",
+    "trending-low-calorie-dessert-diy",
+    "tutorials-low-calorie-dessert-diy"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-low-calorie-dessert-diy",
+      "category_name": "Beginner Low-Calorie Dessert DIY"
+    },
+    {
+      "category_slug": "advanced-low-calorie-dessert-diy",
+      "category_name": "Advanced Low-Calorie Dessert DIY"
+    },
+    {
+      "category_slug": "tips-low-calorie-dessert-diy",
+      "category_name": "Low-Calorie Dessert DIY Tips"
+    },
+    {
+      "category_slug": "history-low-calorie-dessert-diy",
+      "category_name": "Low-Calorie Dessert DIY History"
+    },
+    {
+      "category_slug": "trending-low-calorie-dessert-diy",
+      "category_name": "Trending Low-Calorie Dessert DIY"
+    },
+    {
+      "category_slug": "tutorials-low-calorie-dessert-diy",
+      "category_name": "Low-Calorie Dessert DIY Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "low-calorie-dessert-diy",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Low-Calorie Dessert DIY Central",
+    "articles_per_row": 3
+  }
+}

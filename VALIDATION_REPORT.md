@@ -1,0 +1,88 @@
+# Validation Report - low-calorie-dessert-diy
+
+Generated: 2026-06-02T15:35:11.197499
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Low-Calorie Dessert DIY
+- ✓ Article word count OK: Beginner Low-Calorie Dessert DIY: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Low-Calorie Dessert DIY
+- ✓ Article word count OK: Beginner Low-Calorie Dessert DIY Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Low-Calorie Dessert DIY
+- ✓ Article word count OK: Beginner Low-Calorie Dessert DIY in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Low-Calorie Dessert DIY
+- ✓ Article word count OK: Common Mistakes in Beginner Low-Calorie Dessert DIY
+- ✓ Article word count OK: Beginner Low-Calorie Dessert DIY for Beginners
+- ✓ Article word count OK: Advanced Beginner Low-Calorie Dessert DIY Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Low-Calorie Dessert DIY
+- ✓ Article word count OK: Advanced Low-Calorie Dessert DIY: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Low-Calorie Dessert DIY
+- ✓ Article word count OK: Advanced Low-Calorie Dessert DIY Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Low-Calorie Dessert DIY
+- ✓ Article word count OK: Advanced Low-Calorie Dessert DIY in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Low-Calorie Dessert DIY
+- ✓ Article word count OK: Common Mistakes in Advanced Low-Calorie Dessert DIY
+- ✓ Article word count OK: Advanced Low-Calorie Dessert DIY for Beginners
+- ✓ Article word count OK: Advanced Advanced Low-Calorie Dessert DIY Techniques
+- ✓ Article word count OK: The Ultimate Guide to Low-Calorie Dessert DIY Tips
+- ✓ Article word count OK: Low-Calorie Dessert DIY Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Low-Calorie Dessert DIY Tips
+- ✓ Article word count OK: Low-Calorie Dessert DIY Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Low-Calorie Dessert DIY Tips
+- ✓ Article word count OK: Low-Calorie Dessert DIY Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Low-Calorie Dessert DIY Tips
+- ✓ Article word count OK: Common Mistakes in Low-Calorie Dessert DIY Tips
+- ✓ Article word count OK: Low-Calorie Dessert DIY Tips for Beginners
+- ✓ Article word count OK: Advanced Low-Calorie Dessert DIY Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Low-Calorie Dessert DIY History
+- ✓ Article word count OK: Low-Calorie Dessert DIY History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Low-Calorie Dessert DIY History
+- ✓ Article word count OK: Low-Calorie Dessert DIY History Tips and Best Practices
+- ✓ Article word count OK: The History of Low-Calorie Dessert DIY History
+- ✓ Article word count OK: Low-Calorie Dessert DIY History in 2026: Current Trends
+- ✓ Article word count OK: Future of Low-Calorie Dessert DIY History
+- ✓ Article word count OK: Common Mistakes in Low-Calorie Dessert DIY History
+- ✓ Article word count OK: Low-Calorie Dessert DIY History for Beginners
+- ✓ Article word count OK: Advanced Low-Calorie Dessert DIY History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Low-Calorie Dessert DIY
+- ✓ Article word count OK: Trending Low-Calorie Dessert DIY: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Low-Calorie Dessert DIY
+- ✓ Article word count OK: Trending Low-Calorie Dessert DIY Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Low-Calorie Dessert DIY
+- ✓ Article word count OK: Trending Low-Calorie Dessert DIY in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Low-Calorie Dessert DIY
+- ✓ Article word count OK: Common Mistakes in Trending Low-Calorie Dessert DIY
+- ✓ Article word count OK: Trending Low-Calorie Dessert DIY for Beginners
+- ✓ Article word count OK: Advanced Trending Low-Calorie Dessert DIY Techniques
+- ✓ Article word count OK: The Ultimate Guide to Low-Calorie Dessert DIY Tutorials
+- ✓ Article word count OK: Low-Calorie Dessert DIY Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Low-Calorie Dessert DIY Tutorials
+- ✓ Article word count OK: Low-Calorie Dessert DIY Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Low-Calorie Dessert DIY Tutorials
+- ✓ Article word count OK: Low-Calorie Dessert DIY Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Low-Calorie Dessert DIY Tutorials
+- ✓ Article word count OK: Common Mistakes in Low-Calorie Dessert DIY Tutorials
+- ✓ Article word count OK: Low-Calorie Dessert DIY Tutorials for Beginners
+- ✓ Article word count OK: Advanced Low-Calorie Dessert DIY Tutorials Techniques
+- ✓ Ad configuration validated
